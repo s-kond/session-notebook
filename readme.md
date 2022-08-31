@@ -2,9 +2,11 @@
 
 ## Sessions
 
-[29.08.2022 (Markdown)](sessions/29-08-2022.md)
+[Montag, 29.08.2022 (Markdown)](sessions/29-08-2022.md)
 
-[30.08.2022 (Shell and Git Basics)](sessions/30-08-2022.md)
+[Dienstag, 30.08.2022 (Shell and Git Basics)](sessions/30-08-2022.md)
+
+[Mittwoch, 31.08.2022 (Git Branches)](sessions/31-08-2022.md)
 
 ## Cheatsheets
 
