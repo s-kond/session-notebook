@@ -13,3 +13,5 @@
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Shell](shell-and-git/shell-basics.md)
+
+##Notizen
